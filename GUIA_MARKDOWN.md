@@ -14,8 +14,7 @@
 6. Proceso Comercial
 7. Objeciones y Respuestas
 8. Filosofía "Todo es Posible"
-9. Material de Apoyo
-10. Contacto Codetix
+9. Contacto Codetix
 ---
 
 
@@ -64,10 +63,7 @@
 8. Filosofía "Todo es Posible"
 
                         
-9. Material de Apoyo
-
-                        
-10. Contacto Codetix
+9. Contacto Codetix
 
                     
 
@@ -976,12 +972,12 @@
                 
 
 
-                ## 4B. COMISIONES PARA COMERCIALES (30%)
+                ## 4B. COMISIONES PARA COMERCIALES
                 
 ---
 
 
-                    ## 4B. COMISIONES PARA COMERCIALES (30%)
+                    ## 4B. COMISIONES PARA COMERCIALES
 
                     
 
@@ -989,7 +985,7 @@
 
                             **📊 SISTEMA DE COMISIONES AUTOMÁTICO**
 
-                            Los comerciales de Codetix reciben un <strong style="color: #0066cc;">30% de comisión</strong> tanto del pago inicial (setup) como de cada mensualidad recurrente. 
+                            Los comerciales de Codetix reciben comisiones variables según el plan. <strong style="color: #0066cc;">Solo 3 planes tienen comisión recurrente mensual</strong>. El resto solo comisión por setup. 
                             Las comisiones se calculan y abonan automáticamente en el sistema de afiliados.
                         
 
@@ -998,18 +994,21 @@
 
                     
 
-                        | Plan | Setup | Comisión Setup (30%) | Mensualidad | Comisión Mensual (30%) |
+                        | Plan | Setup | Comisión Setup | Mensualidad | Comisión Mensual |
 |---|---|---|---|---|
-| Opción Express | €350 | **€105** | €15/mes | **€5/mes** |
-| Web Profesional CodeTix | €400 | **€120** | €25/mes | **€8/mes** |
-| Web Dropshipping / Tienda Online | €650 | **€195** | €50/mes | **€15/mes** |
-| Plan Élite | €950 | **€285** | €40/mes | **€12/mes** |
-| Plan Básico (Reservas) | €297 | **€89** | €79/mes | **€24/mes** |
-| Plan Premium (Chatbot IA) | €797 | **€239** | €197/mes | **€59/mes** |
-| ⭐ Pack Completo (Bundle) | €897 | **€269** | €227/mes | **€68/mes** |
-| SEO y Posicionamiento Web | - | Sin setup | €200/mes | **€60/mes** |
-| Automatización Flyers Plan 1 | - | Sin setup | €40/mes | **€12/mes** |
-| Automatización Flyers Plan 2 | - | Sin setup | €50/mes | **€15/mes** |
+| **✅ PLANES CON COMISIÓN MENSUAL RECURRENTE (30%)** | | | | |
+| Plan Básico (Reservas) | €297 | €89 (30%) | €79/mes | €24/mes (30%) |
+| Plan Premium (Chatbot IA) | €797 | €239 (30%) | €197/mes | €59/mes (30%) |
+| ⭐ Pack Completo (Bundle) | €897 | €269 (30%) | €227/mes | €68/mes (30%) |
+| **❌ PLANES SOLO CON COMISIÓN SETUP (20%)** | | | | |
+| Opción Express | €350 | €70 (20%) | €15/mes | €0 |
+| Web Profesional CodeTix | €400 | €80 (20%) | €25/mes | €0 |
+| Web Dropshipping / Tienda Online | €650 | €130 (20%) | €50/mes | €0 |
+| Plan Élite | €950 | €190 (20%) | €40/mes | €0 |
+| **✅ SERVICIOS SIN SETUP (SOLO COMISIÓN MENSUAL 30%)** | | | | |
+| SEO y Posicionamiento Web | €0 | Sin setup | €200/mes | €60/mes (30%) |
+| Automatización Flyers Plan 1 | €0 | Sin setup | €40/mes | €12/mes (30%) |
+| Automatización Flyers Plan 2 | €0 | Sin setup | €50/mes | €15/mes (30%) |
 
                     
 
@@ -1018,8 +1017,7 @@
 
                         
 
-                            ⚠️ **Nota importante:** Todos los precios incluyen IVA. El setup es pago único inicial y la mensualidad se cobra de forma recurrente cada mes. 
-                            No hay permanencia: los clientes pueden cancelar cuando quieran.
+                            ⚠️ **Nota importante:** Todos los precios incluyen IVA. <strong style="color: #e74c3c;">Solo 3 planes tienen comisión recurrente mensual</strong> (Plan Básico Reservas, Plan Premium Chatbot IA y Pack Completo). El resto de planes web solo cobran comisión por setup (20%). Los servicios sin setup (SEO y Automatización Flyers) tienen comisión mensual recurrente (30%). El setup es pago único inicial y la mensualidad se cobra de forma recurrente cada mes. No hay permanencia: los clientes pueden cancelar cuando quieran.
                         
 
                     
@@ -1380,24 +1378,12 @@
                 
 
 
-                ## 9. MATERIAL DE APOYO
+                ## 9. CONTACTO CODETIX
                 
 ---
 
 
-                    ## 9. MATERIAL DE APOYO
-                    
-Esta sección está en desarrollo y se añadirá en futuras versiones.
-
-                
-
-
-                ## 10. CONTACTO CODETIX
-                
----
-
-
-                    ## 10. CONTACTO CODETIX
+                    ## 9. CONTACTO CODETIX
 
                     
 
