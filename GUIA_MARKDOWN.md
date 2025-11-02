@@ -1,6 +1,6 @@
 # CODETIX - Guía de Formación para Comerciales
 ## Soluciones Web y Marketing Digital
-**Versión 3.0 – Noviembre 2025**
+**Versión 3.1 – Diciembre 2025**
 
 ---
 
@@ -150,44 +150,65 @@ Calidad, Transparencia, Personalización, Resultados y Soporte continuo.
 
 ---
 
-### 3.5 CHATBOT BÁSICO
+### 3.5 PLAN BÁSICO (Solo Reservas)
 
-**Descripción:** Chat automatizado integrado en tu web para responder preguntas frecuentes y gestionar consultas 24/7.
+**Descripción:** Sistema completo de gestión de reservas online para automatizar tus citas y no perder nunca un cliente.
 
 **Incluye:**
-- Chat integrado en la web
-- FAQ automáticos
-- Información de horarios
-- Sistema de reservas básico
-- Personalización de estilo
-- Configuración según tu negocio
+- Widget público de reservas personalizable
+- Dashboard completo (tabla + calendario)
+- Emails automáticos (confirmación/cancelación)
+- Exportar a Excel
+- Gestión ilimitada de reservas
+- Soporte por email
 
-**Precio:** 150 € pago único + 20 €/mes mantenimiento
+**Precio:** 297 € pago único + 79 €/mes mantenimiento
 
-**Se puede añadir a:** Cualquier web existente
+💬 **Mensaje de venta:** *"€79/mes = €2,60 al día. Menos que un café por día para no perder ninguna reserva."*
 
-💡 **Ideal para:** Restaurantes, clínicas, salones, servicios locales que reciben muchas consultas repetitivas.
+💡 **Ideal para:** Restaurantes, clínicas, salones, servicios de citas, talleres mecánicos.
 
 ---
 
-### 3.6 CHATBOT IA PREMIUM
+### 3.6 PLAN PREMIUM (Solo Chatbot IA)
 
-**Descripción:** Inteligencia Artificial de última generación (ChatGPT/Gemini) integrada. Respuestas naturales y contextuales.
+**Descripción:** Chatbot de Inteligencia Artificial conectado a WhatsApp Business para atender clientes 24/7 sin descanso.
 
 **Incluye:**
-- Chatbot con IA avanzada
-- API de ChatGPT o Gemini
-- Respuestas naturales
-- Memoria contextual
-- Panel editable por cliente
-- Aprendizaje continuo
-- Integración web completa
+- Chatbot conectado a WhatsApp Business
+- IA entrenada con información del negocio
+- Respuestas automáticas 24/7
+- Conversaciones ilimitadas
+- Dashboard de analytics (Diswarp)
+- Soporte prioritario
 
-**Precio:** 300 € pago único + 25 €/mes mantenimiento
+**Precio:** 797 € pago único + 197 €/mes mantenimiento
 
-**Nota:** Incluye coste API (~30€/mes) que gestiona Codetix
+💬 **Mensaje de venta:** *"€197/mes = €6,50 al día. Tu competencia pierde clientes mientras duermes. Tú no."*
 
 💡 **Ideal para:** Empresas que buscan atención al cliente de vanguardia, consultorías, servicios profesionales.
+
+---
+
+### 3.6B PACK COMPLETO (Bundle) ⭐ RECOMENDADO
+
+**Descripción:** La solución definitiva: reservas automatizadas + atención al cliente 24/7. Todo en uno.
+
+**Incluye:**
+- ✅ TODO del Plan Básico
+- ✅ TODO del Plan Premium
+- ✅ Integración perfecta (el chatbot gestiona reservas)
+- ✅ Ahorro de €197 en setup
+- ✅ Ahorro de €49/mes
+- ✅ Soporte VIP
+
+**Precio:** 897 € pago único + 227 €/mes mantenimiento
+
+💬 **Mensaje de venta:** *"€227/mes = €7,50 al día por el sistema completo. Reservas automatizadas + atención 24/7."*
+
+✅ **Ahorro total:** €246 en el primer año
+
+💡 **Ideal para:** Empresas que quieren la solución completa automatizada.
 
 ---
 
@@ -242,22 +263,6 @@ Calidad, Transparencia, Personalización, Resultados y Soporte continuo.
 
 ---
 
-### 3.9 AUTOMATIZACIÓN DE RESERVAS ONLINE
-
-**Descripción:** Sistema completo de gestión de citas y reservas que se integra perfectamente con tu web y WhatsApp.
-
-**Incluye:**
-- Panel de administración completo
-- Integración web y WhatsApp
-- Recordatorios automáticos
-- Gestión de disponibilidad
-- Confirmaciones instantáneas
-- Soporte continuo
-- Sincronización en tiempo real
-
-**Precio:** 30 € pago único + 65 €/mes mantenimiento
-
-💡 **Ideal para:** Restaurantes, clínicas, salones, servicios de citas, talleres mecánicos.
 
 ---
 
@@ -265,9 +270,9 @@ Calidad, Transparencia, Personalización, Resultados y Soporte continuo.
 
 ### ⚠️ IMPORTANTE
 
-Cada servicio tiene un coste inicial + mantenimiento mensual establecido según su nivel de complejidad y funcionalidades. Los mantenimientos van desde **15€/mes** (Opción Express) hasta **65€/mes** (Reservas, Tiendas). El mantenimiento incluye hosting, seguridad, backups, actualizaciones y soporte técnico.
+Cada servicio tiene un coste inicial + mantenimiento mensual establecido según su nivel de complejidad y funcionalidades. Los mantenimientos van desde **15€/mes** (Opción Express) hasta **227€/mes** (Pack Completo Bundle). El mantenimiento incluye hosting, seguridad, backups, actualizaciones y soporte técnico.
 
-**Nota sobre IA:** El coste de la API de ChatGPT/Gemini (~30€/mes) está incluido dentro del mantenimiento del **Chatbot IA Premium**. La agencia gestiona este coste sin sobreprecio para el cliente.
+**Nota sobre IA:** Los costes de APIs de ChatGPT/Gemini están incluidos dentro de los planes de Chatbot IA. La agencia gestiona estos costes sin sobreprecio para el cliente.
 
 ### OPCIÓN EXPRESS - 15€/mes
 - Hosting básico incluido
@@ -286,18 +291,27 @@ Cada servicio tiene un coste inicial + mantenimiento mensual establecido según 
 - Soporte email (48h)
 - 1 modificación menor/mes
 
-### CHATBOT BÁSICO - 20€/mes
-- Mantenimiento del chatbot
-- Actualizaciones funcionales
-- Soporte técnico
-- Configuraciones personalizadas
+### PLAN BÁSICO (Reservas) - 79€/mes
+- Hosting alta disponibilidad
+- Sistema reservas 24/7
+- Emails automáticos
+- Dashboard completo
+- Soporte por email
 
-### CHATBOT IA PREMIUM - 25€/mes
-- Todo lo de Chatbot Básico +
-- API ChatGPT/Gemini incluida
-- Coste ~30€/mes gestionado
-- Actualizaciones IA
-- Panel editable
+### PLAN PREMIUM (Chatbot IA) - 197€/mes
+- Chatbot WhatsApp Business
+- IA avanzada entrenada
+- Respuestas 24/7 ilimitadas
+- Dashboard analytics (Diswarp)
+- Soporte prioritario
+
+### ⭐ PACK COMPLETO (Bundle) - 227€/mes
+- Todo lo de Plan Básico +
+- Todo lo de Plan Premium
+- Integración perfecta
+- Ahorro de €49/mes
+- Soporte VIP
+- Monitorización crítica
 
 ### PLAN ÉLITE - 40€/mes
 - Hosting alta gama (30GB)
@@ -317,14 +331,22 @@ Cada servicio tiene un coste inicial + mantenimiento mensual establecido según 
 - Actualizaciones catálogo
 - Backup diario mejorado
 
-### RESERVAS ONLINE - 65€/mes
-- Hosting alta disponibilidad
-- Backup tiempo real
-- Sistema reservas 24/7
-- Integración WhatsApp
-- Recordatorios automáticos
-- Soporte urgente (6h)
-- Monitoreo crítico
+---
+
+## 4B. COMISIONES PARA COMERCIALES (30%)
+
+### 📊 SISTEMA DE COMISIONES AUTOMÁTICO
+
+Los comerciales de Codetix reciben un **30% de comisión** tanto del pago inicial (setup) como de cada mensualidad recurrente. Las comisiones se calculan y abonan automáticamente en el sistema de afiliados.
+
+| Plan | Setup | Comisión Setup (30%) | Mensualidad | Comisión Mensual (30%) |
+|------|--------|----------------------|--------------|-------------------------|
+| Plan Básico (Reservas) | €297 | **€89** | €79/mes | **€24/mes** |
+| Plan Premium (Chatbot IA) | €797 | **€239** | €197/mes | **€59/mes** |
+| ⭐ Pack Completo (Bundle) | €897 | **€269** | €227/mes | **€68/mes** |
+
+### ⚠️ Nota importante
+Todos los precios incluyen IVA. El setup es pago único inicial y la mensualidad se cobra de forma recurrente cada mes. No hay permanencia: los clientes pueden cancelar cuando quieran.
 
 ---
 
