@@ -996,16 +996,16 @@
 
                         | Plan | Setup | Comisión Setup | Mensualidad | Comisión Mensual |
 |---|---|---|---|---|
-| ✅ PLANES CON COMISIÓN MENSUAL RECURRENTE (30%) |
+| **✅ PLANES CON COMISIÓN MENSUAL RECURRENTE (30%)** | | | | |
 | Plan Básico (Reservas) | €297 | €89 (30%) | €79/mes | €24/mes (30%) |
 | Plan Premium (Chatbot IA) | €797 | €239 (30%) | €197/mes | €59/mes (30%) |
 | ⭐ Pack Completo (Bundle) | €897 | €269 (30%) | €227/mes | €68/mes (30%) |
-| ❌ PLANES SOLO CON COMISIÓN SETUP (20%) |
+| **❌ PLANES SOLO CON COMISIÓN SETUP (20%)** | | | | |
 | Opción Express | €350 | €70 (20%) | €15/mes | €0 |
 | Web Profesional CodeTix | €400 | €80 (20%) | €30/mes | €0 |
 | Web Dropshipping / Tienda Online | €650 | €130 (20%) | €50/mes | €0 |
 | Plan Élite | €950 | €190 (20%) | €40/mes | €0 |
-| 🔵 SERVICIOS SIN SETUP (COMISIÓN ÚNICA 20% AL ACTIVAR) |
+| **🔵 SERVICIOS SIN SETUP (COMISIÓN ÚNICA 20% AL ACTIVAR)** | | | | |
 | SEO y Posicionamiento Web | €0 | Sin setup | €200/mes | €40 una vez (20%) |
 | Automatización Flyers Plan 1 | €0 | Sin setup | €40/mes | €8 una vez (20%) |
 | Automatización Flyers Plan 2 | €0 | Sin setup | €50/mes | €10 una vez (20%) |
