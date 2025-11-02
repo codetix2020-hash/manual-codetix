@@ -313,7 +313,7 @@
 
                                 
 
-                                    + 25 €/mes mantenimiento
+                                    + 30 €/mes mantenimiento
                                 
 
                                 
@@ -832,7 +832,7 @@
 
                             ### WEB PROFESIONAL
                             
-25€/mes
+30€/mes
 
                             
                                 - Hosting premium (15GB)
@@ -1002,10 +1002,10 @@
 | ⭐ Pack Completo (Bundle) | €897 | €269 (30%) | €227/mes | €68/mes (30%) |
 | ❌ PLANES SOLO CON COMISIÓN SETUP (20%) |
 | Opción Express | €350 | €70 (20%) | €15/mes | €0 |
-| Web Profesional CodeTix | €400 | €80 (20%) | €25/mes | €0 |
+| Web Profesional CodeTix | €400 | €80 (20%) | €30/mes | €0 |
 | Web Dropshipping / Tienda Online | €650 | €130 (20%) | €50/mes | €0 |
 | Plan Élite | €950 | €190 (20%) | €40/mes | €0 |
-| **🔵 SERVICIOS SIN SETUP (COMISIÓN ÚNICA 30% AL ACTIVAR)** | | | | |
+| 🔵 SERVICIOS SIN SETUP (COMISIÓN ÚNICA 30% AL ACTIVAR) |
 | SEO y Posicionamiento Web | €0 | Sin setup | €200/mes | €60 una vez (30%) |
 | Automatización Flyers Plan 1 | €0 | Sin setup | €40/mes | €12 una vez (30%) |
 | Automatización Flyers Plan 2 | €0 | Sin setup | €50/mes | €15 una vez (30%) |
