@@ -1005,10 +1005,10 @@
 | Web Profesional CodeTix | €400 | €80 (20%) | €30/mes | €0 |
 | Web Dropshipping / Tienda Online | €650 | €130 (20%) | €50/mes | €0 |
 | Plan Élite | €950 | €190 (20%) | €40/mes | €0 |
-| 🔵 SERVICIOS SIN SETUP (COMISIÓN ÚNICA 30% AL ACTIVAR) |
-| SEO y Posicionamiento Web | €0 | Sin setup | €200/mes | €60 una vez (30%) |
-| Automatización Flyers Plan 1 | €0 | Sin setup | €40/mes | €12 una vez (30%) |
-| Automatización Flyers Plan 2 | €0 | Sin setup | €50/mes | €15 una vez (30%) |
+| 🔵 SERVICIOS SIN SETUP (COMISIÓN ÚNICA 20% AL ACTIVAR) |
+| SEO y Posicionamiento Web | €0 | Sin setup | €200/mes | €40 una vez (20%) |
+| Automatización Flyers Plan 1 | €0 | Sin setup | €40/mes | €8 una vez (20%) |
+| Automatización Flyers Plan 2 | €0 | Sin setup | €50/mes | €10 una vez (20%) |
 
                     
 
@@ -1017,7 +1017,7 @@
 
                         
 
-                            ⚠️ **Nota importante:** Todos los precios incluyen IVA. <strong style="color: #e74c3c;">Solo 3 planes tienen comisión recurrente mensual</strong> (Plan Básico Reservas, Plan Premium Chatbot IA y Pack Completo). El resto de planes web cobran comisión única por setup (20%). Los servicios sin setup (SEO y Automatización Flyers) cobran comisión única al activar (30% - una sola vez). El setup es pago único inicial y la mensualidad se cobra de forma recurrente cada mes. No hay permanencia: los clientes pueden cancelar cuando quieran.
+                            ⚠️ **Nota importante:** Todos los precios incluyen IVA. <strong style="color: #e74c3c;">Solo 3 planes tienen comisión recurrente mensual</strong> (Plan Básico Reservas, Plan Premium Chatbot IA y Pack Completo). El resto de planes web cobran comisión única por setup (20%). Los servicios sin setup (SEO y Automatización Flyers) cobran comisión única al activar (20% - una sola vez). El setup es pago único inicial y la mensualidad se cobra de forma recurrente cada mes. No hay permanencia: los clientes pueden cancelar cuando quieran.
                         
 
                     
